@@ -8,6 +8,5 @@ This is a small and simple but useful tool to convert any Web page (URL) to a PD
   > `pip install pdfkit`
 
 - Download **wkhtmltopdf** from [here](https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_msvc2015-win64.exe)
-- Finally, run the `converter.py` file.
+- Finally, run the `converter.py` file. Enjoy :)
 
-Cheers :)
